@@ -28,20 +28,18 @@
 ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql&color=0d1117)
 ![MySql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgresql&color=0d1117)
 
-<!-- ## 🚀 Projects
-
-### 📌 [Project Name](https://github.com/zdearo/project-name)
-**Description:** A brief description of what the project is and its purpose. -->
-
 ## 📈 GitHub Stats
 
-![Zdearo's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zdearo&layout=compact&theme=github_dark)
-<!-- ![Zdearo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zdearo&show_icons=true&theme=github_dark) -->
+<p align="start">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zdearo&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdearo&layout=compact&theme=github_dark" />
+</p>
+
 
 <!-- ## 🗂️ Highlighted Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zdearo&repo=project-name&theme=dark)](https://github.com/zdearo/project-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zdearo&repo=another-project-name&theme=dark)](https://github.com/zdearo/another-project-name) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zdearo&repo=Pokedex-VueJS&theme=dark)](https://github.com/zdearo/Pokedex-VueJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zdearo&repo=TechBridge-LP&theme=dark)](https://github.com/zdearo/TechBridge-LP) -->
 
 <!-- ## 📝 Blog Posts
 
