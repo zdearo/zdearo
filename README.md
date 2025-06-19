@@ -58,6 +58,3 @@ I'm a Software Developer passionate about developing solutions that solve everyd
     <img src="https://skillicons.dev/icons?i=php,javascript,typescript,tailwindcss,bootstrap,vue,livewire,alpinejs,nodejs,laravel,nuxt,linux,docker,git,python" />
   </a>
 </p> -->
-<p align="center">
-<a href="https://www.buymeacoffee.com/zdearo"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee ❤️&emoji=&slug=zdearo&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
-</p>
