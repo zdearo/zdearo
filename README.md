@@ -29,12 +29,12 @@ I'm a Software Developer passionate about developing solutions that solve everyd
 ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql&color=0d1117)
 ![MySql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgresql&color=0d1117)
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <p align="start">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zdearo&show_icons=true&theme=github_dark" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zdearo&show_icons=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdearo&layout=compact&theme=github_dark" />
-</p>
+</p> -->
 
 
 <!-- ## 🗂️ Highlighted Repositories
